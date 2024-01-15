@@ -1,6 +1,6 @@
 const HeavyMetal = () => {
   return (
-    <section>
+    <section className="content">
       <h2>Exercício React</h2>
       <h3>Heavy Metal</h3>
       <p>

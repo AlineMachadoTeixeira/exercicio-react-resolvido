@@ -1,6 +1,6 @@
 const ClassicRock = () => {
   return (
-    <section>
+    <section className="content">
       <h2>Exercício React</h2>
       <h3>Classic Rock</h3>
       <p>

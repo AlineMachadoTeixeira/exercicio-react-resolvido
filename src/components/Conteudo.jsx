@@ -9,7 +9,7 @@ const StyledConteudo = styled.main`
   height: 400px;
   border: solid 10px black;
   display: flex;
-  background-color: white;
+  /* background-color: white; */
   border-top-right-radius: inherit;
   border-bottom-right-radius: inherit;
 `;
