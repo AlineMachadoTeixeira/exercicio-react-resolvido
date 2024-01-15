@@ -48,6 +48,8 @@ h2 {
   text-align: center;
 }
 
+/* Regras para a animação (a classe content é aplicada em cada section das páginas) */
+
 .content {
   animation-name: fadeIn;
   animation-duration: 400ms;
